@@ -1,0 +1,13 @@
+C:\Users\0023806\source\repos\ClassicWowCharacterManager\ClassicWowCharacterManager\bin\Debug\ClassicWowCharacterManager.exe.config
+C:\Users\0023806\source\repos\ClassicWowCharacterManager\ClassicWowCharacterManager\bin\Debug\ClassicWowCharacterManager.exe
+C:\Users\0023806\source\repos\ClassicWowCharacterManager\ClassicWowCharacterManager\bin\Debug\ClassicWowCharacterManager.pdb
+C:\Users\0023806\source\repos\ClassicWowCharacterManager\ClassicWowCharacterManager\obj\Debug\ClassicWowCharacterManager.csprojAssemblyReference.cache
+C:\Users\0023806\source\repos\ClassicWowCharacterManager\ClassicWowCharacterManager\obj\Debug\ClassicWowCharacterManager.Form1.resources
+C:\Users\0023806\source\repos\ClassicWowCharacterManager\ClassicWowCharacterManager\obj\Debug\ClassicWowCharacterManager.Properties.Resources.resources
+C:\Users\0023806\source\repos\ClassicWowCharacterManager\ClassicWowCharacterManager\obj\Debug\ClassicWowCharacterManager.csproj.GenerateResource.cache
+C:\Users\0023806\source\repos\ClassicWowCharacterManager\ClassicWowCharacterManager\obj\Debug\ClassicWowCharacterManager.csproj.CoreCompileInputs.cache
+C:\Users\0023806\source\repos\ClassicWowCharacterManager\ClassicWowCharacterManager\obj\Debug\ClassicWowCharacterManager.exe
+C:\Users\0023806\source\repos\ClassicWowCharacterManager\ClassicWowCharacterManager\obj\Debug\ClassicWowCharacterManager.pdb
+C:\Users\0023806\source\repos\ClassicWowCharacterManager\ClassicWowCharacterManager\bin\Debug\WoWServer.mdf
+C:\Users\0023806\source\repos\ClassicWowCharacterManager\ClassicWowCharacterManager\bin\Debug\WoWServer_log.ldf
+C:\Users\0023806\source\repos\ClassicWowCharacterManager\ClassicWowCharacterManager\obj\Debug\ClassicWowCharacterManager.SearchForm.resources

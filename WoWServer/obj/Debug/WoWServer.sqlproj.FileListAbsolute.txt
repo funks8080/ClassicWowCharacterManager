@@ -1,0 +1,9 @@
+C:\Users\0023806\source\repos\ClassicWowCharacterManager\WoWServer\bin\Debug\WoWServer.dacpac
+C:\Users\0023806\source\repos\ClassicWowCharacterManager\WoWServer\bin\Debug\WoWServer.dll
+C:\Users\0023806\source\repos\ClassicWowCharacterManager\WoWServer\bin\Debug\WoWServer.pdb
+C:\Users\0023806\source\repos\ClassicWowCharacterManager\WoWServer\obj\Debug\Model.xml
+C:\Users\0023806\source\repos\ClassicWowCharacterManager\WoWServer\obj\Debug\refactor.xml
+C:\Users\0023806\source\repos\ClassicWowCharacterManager\WoWServer\obj\Debug\postdeploy.sql
+C:\Users\0023806\source\repos\ClassicWowCharacterManager\WoWServer\obj\Debug\predeploy.sql
+C:\Users\0023806\source\repos\ClassicWowCharacterManager\WoWServer\obj\Debug\WoWServer.dll
+C:\Users\0023806\source\repos\ClassicWowCharacterManager\WoWServer\obj\Debug\WoWServer.pdb
